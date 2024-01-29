@@ -14,7 +14,6 @@ I'm Rodrigo Fuentes a student of [42 Madrid](https://www.42madrid.com/) and Cont
 
 #### Skills
 
-<!-- TODO: Make technologies links takes you to repositories -->
 <!-- PARA AÑADIR OTRO BADGE DISTINTO -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
