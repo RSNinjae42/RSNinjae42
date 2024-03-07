@@ -34,7 +34,7 @@ I'm Rodrigo Fuentes a student of [42 Madrid](https://www.42madrid.com/) and Cont
 
 <br >
 
-Know I only spent my time in 42 madrid studing and making projects.
+Now I only spent my time in 42 madrid studing and making projects.
 
 #### What is Rodro_fpv?
 
