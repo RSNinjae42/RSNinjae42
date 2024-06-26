@@ -21,12 +21,39 @@ I'm Rodrigo Fuentes a student of [42 Madrid](https://www.42madrid.com/) and Cont
 
 [![HACKTHEBOX Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](#) [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) [![HACKERRANK Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#) [![LINUX Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
+<details>
+<summary>
+  <h3>42</h3>
+</summary>
+
+<br >
+
 #### 42 Stats
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle8jmjoa00540flbbmywe2h9/stats?cursusId=21&coalitionId=64" alt="rofuente's 42 stats" /></a>
+<!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle8jmjoa00540flbbmywe2h9/stats?cursusId=21&coalitionId=64" alt="rofuente's 42 stats" /></a> -->
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/rofuente?1337Badge=off&UM6P=off" alt="rofuente's 42 stats" /></a>
+
+
+<details>
+<summary>
+  <h3>42 Proyects</h3>
+</summary>
+
+| Project 🔗🖥️ | Score✅ |
+|---|---|
+| [**Libft **](https://github.com/ken0by/libft) | <h4>125</h4> |
+| [**Ft_printf📝**](https://github.com/ken0by/ft_printf) | <h4>100</h4> |
+| **Born2beroot🦾** | <h4>100</h4> |
+| [**Get_next_line📌**](https://github.com/ken0by/gnl) | <h4>125</h4> |
+| [**Exam rank02📣**](https://github.com/ken0by/exam_rank_02) |  <h4>100</h4> |
+| [**So Long🕹️**](https://github.com/ken0by/so_long_42) |  <h4>117</h4> |
+| [**Pipex↔️**](https://github.com/ken0by/pipex) |  <h4>100</h4> |
+| [**Push_Swap📐**](https://github.com/ken0by/push_swap) |  <h4>82</h4> |
+| [**Philosophers🤔**](https://github.com/ken0by/philosophers) |  <h4>100</h4> |
+</details>
 
 #### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken0by&layout=compact)](https://github.com/ken0by/github-readme-stats)
-
+</details>
 <details>
 <summary>
   More stuff about me
