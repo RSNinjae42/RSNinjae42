@@ -40,15 +40,20 @@ I'm Rodrigo Fuentes a student of [42 Madrid](https://www.42madrid.com/) and Cont
 
 | Project 🔗🖥️ | Score✅ |
 |---|---|
-| [**Libft **](https://github.com/ken0by/libft) | <h4>125</h4> |
-| [**Ft_printf📝**](https://github.com/ken0by/ft_printf) | <h4>100</h4> |
+| [**Libft📚**](https://github.com/ken0by/libft) | <h4>125</h4> |
+| [**Ft_printf🖨️**](https://github.com/ken0by/ft_printf) | <h4>100</h4> |
 | **Born2beroot🦾** | <h4>100</h4> |
-| [**Get_next_line📌**](https://github.com/ken0by/gnl) | <h4>125</h4> |
-| [**Exam rank02📣**](https://github.com/ken0by/exam_rank_02) |  <h4>100</h4> |
+| [**Get_next_line⏭️**](https://github.com/ken0by/gnl) | <h4>125</h4> |
+| [**Exam rank02📝**](https://github.com/ken0by/exam_rank_02) |  <h4>100</h4> |
 | [**So Long🕹️**](https://github.com/ken0by/so_long_42) |  <h4>117</h4> |
-| [**Pipex↔️**](https://github.com/ken0by/pipex) |  <h4>100</h4> |
-| [**Push_Swap📐**](https://github.com/ken0by/push_swap) |  <h4>82</h4> |
+| [**Pipex⌨️↔️**](https://github.com/ken0by/pipex) |  <h4>100</h4> |
+| [**Push_Swap🤖**](https://github.com/ken0by/push_swap) |  <h4>82</h4> |
 | [**Philosophers🤔**](https://github.com/ken0by/philosophers) |  <h4>100</h4> |
+| [**Minishell💲**](https://github.com/ken0by/minishell) |  <h4>100</h4> |
+| [**Exam rank03📝**](https://github.com/ken0by/exam_rank_03) |  <h4>100</h4> |
+| [**CPP⚡️**](https://github.com/ken0by/cpp) |  <h4>In progress</h4> |
+| [**NetPractice📶**](https://github.com/ken0by/netPractice) |  <h4>In progress</h4> |
+| [**Cub3D⚡️**](https://github.com/ken0by/cub3d) |  <h4>In progress</h4> |
 </details>
 
 #### Languages
