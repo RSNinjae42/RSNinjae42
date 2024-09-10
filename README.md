@@ -51,8 +51,8 @@ I'm Rodrigo Fuentes a student of [42 Madrid](https://www.42madrid.com/) and Cont
 | [**Philosophers🤔**](https://github.com/ken0by/philosophers) |  <h4>100</h4> |
 | [**Minishell💲**](https://github.com/ken0by/minishell) |  <h4>100</h4> |
 | [**Exam rank03📝**](https://github.com/ken0by/exam_rank_03) |  <h4>100</h4> |
+| [**NetPractice📶**](https://github.com/ken0by/netPractice) |  <h4>100</h4> |
 | [**CPP⚡️**](https://github.com/ken0by/cpp) |  <h4>In progress</h4> |
-| [**NetPractice📶**](https://github.com/ken0by/netPractice) |  <h4>In progress</h4> |
 | [**Cub3D⚡️**](https://github.com/ken0by/cub3d) |  <h4>In progress</h4> |
 </details>
 
